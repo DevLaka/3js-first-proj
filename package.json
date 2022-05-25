@@ -1,0 +1,24 @@
+{
+  "name": "3js-first-proj",
+  "version": "1.0.0",
+  "description": "Download the missing 3js file from here. [https://threejs.org/build/three.js]",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DevLaka/3js-first-proj.git"
+  },
+  "author": "devlaka",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DevLaka/3js-first-proj/issues"
+  },
+  "homepage": "https://github.com/DevLaka/3js-first-proj#readme",
+  "dependencies": {
+    "gh-pages": "^4.0.0",
+    "three": "^0.140.2"
+  }
+}
